@@ -1,0 +1,27 @@
+.contact-navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    
+   
+}
+
+.navbar{
+    background-color: rgba(0,0,0, 0.4);
+    padding: 2% 0;
+   
+}
+.navbar-brand{
+    margin-left: 50px;
+}
+.nav-link{
+    font-weight: 500;
+    color: #fff!important;
+    font-size: large;  
+
+}
+.active{
+    color: var(--colorPrimary)!important;
+}
